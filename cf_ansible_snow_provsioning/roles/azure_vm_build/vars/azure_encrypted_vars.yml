@@ -1,6 +1,0 @@
-##
-# below are the vars that are used to set a user/pass on the instance being provisioned
-##
-
-my_admin_user: # username used to login to the instance
-my_admin_pass: # password for username
