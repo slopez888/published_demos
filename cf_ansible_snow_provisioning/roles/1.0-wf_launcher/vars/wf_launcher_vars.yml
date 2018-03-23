@@ -1,0 +1,3 @@
+---
+tower_user: # username of tower user used to access API
+tower_pass: # password of tower user

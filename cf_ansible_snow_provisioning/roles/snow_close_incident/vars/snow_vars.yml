@@ -1,0 +1,4 @@
+---
+snow_username: # username to access ServiceNOW API
+snow_password: # password for username
+snow_instance_url: # hostname of snow instance 
